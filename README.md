@@ -1,6 +1,6 @@
 # Audio-separation-models-checker
 
-This code allows to check quality of audio separation models. It compares original stems with extracted stems and found average difference using SDR metric. 
+This code allows to check quality of audio separation models. It compares original stems with extracted stems and found average difference using [SDR metric](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021#evaluation-metric). 
 
 ## How to use
 
